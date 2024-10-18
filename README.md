@@ -1,3 +1,3 @@
 # pair
 
-# pair badge * 2
+# pair badge *
